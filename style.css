@@ -1,0 +1,68 @@
+.outer {
+    min-height: 50px;
+    width: 300px;
+    background: linear-gradient(45deg, orange, red);
+    margin: 100px auto;
+    border-radius: 10px;
+    /* text-align: center; */
+    padding: 20px;
+
+}
+
+.header {
+    height: 45px;
+    width: 300px;
+    color: white;
+    background-color: black;
+    text-align: center;
+
+}
+
+#left {
+    height: 45px;
+    width: 150px;
+    float: left;
+
+
+    line-height: 45px;
+
+}
+
+#right {
+    height: 45px;
+    width: 150px;
+    float: left;
+
+    line-height: 45px;
+
+}
+
+.a:hover {
+    background-color: aqua;
+    color: black;
+}
+
+.txt {
+    height: 30px;
+    width: 70%;
+    border: none;
+    border-radius: 5px;
+    padding-left: 8px;
+
+
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    margin-top: 6px;
+}
+
+#log {
+    display: none;
+}
+
+#reg {
+    display: none;
+}
